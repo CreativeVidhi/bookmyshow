@@ -6,7 +6,13 @@ header{
 
 
 .search:hover{
-    transform: scale(1.1);
+    background-color: #555;
+    color: white;
+   /* transform: scale(1.1);*/
+}
+.card-body:hover{
+    background-color: #555;
+    color: white;
 }
 /*.uppernav{
     height:65%;

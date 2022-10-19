@@ -1,6 +1,6 @@
 function loadCoupon(){
     document.getElementById('coupon').style.visibility = 'visible';
-    document.getElementsByTagName('body').style.overflow='0.5'
+    document.getElementsByTagName('body').style.opacity='0.5'
 }
 
 function closeCoupon(){
