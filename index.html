@@ -52,10 +52,6 @@
 <body>
 
 
-
-
-
-
   <!--couponooooooooooo-->
 
   <div class="container" id="coupon">
@@ -94,9 +90,9 @@
   <header class="container-fliud">
 
     <div class="d-flex bd-highlight">
-      <div class="p-2 flex-shrink-1 bd-highlight"> <img src="https://i.ibb.co/7RHLQS3/1.jpg" /></div>
+      <div class="p-2 flex-shrink-1 bd-highlight "> <img src="https://i.ibb.co/7RHLQS3/1.jpg" class="brandlogo" /></div>
       <div class="p-2 flex-grow-1 bd-highlight">
-        <form>
+        <form class="hide">
           <div class="input-group">
             <span class="input-group-text" id="basic-addon1"><svg xmlns="http://www.w3.org/2000/svg" width="16"
                 height="16" fill="currentColor" class="bi bi-search " viewBox="0 0 16 16">
@@ -109,7 +105,9 @@
           </div>
         </form>
       </div>
-      <div class="p-2 flex bd-highlight"><button type="button" class="btn btn-danger">Sign In</button>
+      <div><span><img src='https://openweathermap.org/img/w/10d.png' alt="weather"/></span>
+        <span id="weatherOut"><button onClick="geolocation()"  class="btn btn-outline-secondary">My Location</button> </span></div>
+      <div class="p-2 flex bd-highlight hide"><button type="button" class="btn btn-danger">Sign In</button>
 
       </div>
     </div>
@@ -138,6 +136,7 @@
             <li class="nav-item search"> <a class="nav-link" style="color:white;" href="#"> offers</a></li>
             <li class="nav-item search"><a class="nav-link" style="color:white;" href="#"> Gift Cards</a></li>
             <li class="nav-item "><button class="btn btn-outline-warning" onClick="changeMode()">Change Mode</button>
+             
             </li>
           </ul>
         </div>
@@ -215,13 +214,6 @@
     </div>
   </div>
   <!--------------slider------1111111111111111111111111------------------>
-
-
-
-
-
-
-
 
 
 
@@ -340,16 +332,6 @@
       </div>
     </div>
   </div>
-
-
-
-
-
-
-
-
-
-
 
   <!---------slider  2222222222222222222222-->
 
@@ -582,7 +564,38 @@
   <script>
     window.onload = loadCoupon()
   </script>
+<script> 
+  let x = document.getElementById('weatherOut');
+  function geolocation(){
+      if(navigator.geolocation){
+          navigator.geolocation.getCurrentPosition(showPosition)
+      }else{
+          x.innerText = "Geo Not Supported"
+      }
+  }
+  function showPosition(data){
+                console.log(data)
+                let lat = data.coords.latitude;
+                let long = data.coords.longitude;
+                const url = `https://api.openweathermap.org/data/2.5/forecast/daily?lat=${lat}&lon=${long}&mode=json&units=metric&cnt=5&appid=fbf712a5a83d7305c3cda4ca8fe7ef29`
+                //api calling
+                fetch(url,{method: 'GET'})
+                // return promise
+                .then((res) => res.json())
+                // resolve promise
+                .then((data) => {
+                    console.log(data)
+                    let cityName = data.city.name;
+                    let temp = data.list[0].temp.day;
+                    x.innerText = ` ${cityName}  ${temp} °C`
+                })
+                .catch((err) => {
+                    console.log(err)
+                })
 
+            }
+
+      </script>
   <script>
     $('.owl-carousel').owlCarousel({
       loop: true,

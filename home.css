@@ -83,3 +83,21 @@ footer{
     text-align: center;
     color:rgb(238, 234, 234);
 }
+@media only screen and (min-width:480px) {
+  .brandlogo{
+    height:100%;
+    width:100%;
+  }
+    .hide{
+        visibility:visible;
+    }
+  }
+  @media only screen and (max-width:1200px) {
+    .brandlogo{
+        height:70%;
+        width:100%;
+      }
+    .hide{
+        visibility:hidden;
+    }
+  }
