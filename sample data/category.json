@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "category":"recommended movies"
+    },
+    {
+        "id":2,
+        "category":"bollywood movies"
+    },
+    {
+        "id":3,
+        "category":"hollywood movies"
+    },
+    {
+        "id":4,
+        "category":"online games"
+    }
+]

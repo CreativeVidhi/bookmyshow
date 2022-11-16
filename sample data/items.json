@@ -1,0 +1,384 @@
+[
+    {
+        "id": 1,
+        "name":"avatar",
+        "category_id":1,
+        "Age":"13+",
+        "image":"",
+        "year":2009,
+        "info":"A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home. When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora."
+    },
+    {
+        "id": 2,
+        "name":"kabhi khushi kabhi gum",
+        "category_id":1,
+        "Age":"13+",
+        "image":"https://i.ibb.co/PY0LgG0/k3g.jpg",
+        "year":2001,
+        "info":"Rahul was adopted since he was born. Rahul falls in love with a poor girl named Anjali but his dad forbids their love, for he wanted him to marry his friend's daughter. Rahul marries Anjali, so his dad kicks him out of the house and moves to London with Anjali, her younger sister Pooja, and his nanny."
+    },
+    {
+        "id": 3,
+        "name":"pk",
+        "category_id":1,
+        "Age":"13+",
+        "image":"https://i.ibb.co/Ms9KYMK/pk.jpg",
+        "year":2014,
+        "info":"PK is an Alien who visits earth to understand about its 'intelligent' inhabitants, but the very first lesson is a painful one when the remote control of his spaceship is stolen. Hence he now faces myriads of problem in a planet where he is alone unaware and can't even speak its language."
+    },
+    {
+        "id": 4,
+        "name":"lords of the rings",
+        "category_id":1,
+        "Age":"13+",
+        "image":"",
+        "year":2001,
+        "info":"The future of civilization rests in the fate of the One Ring, which has been lost for centuries. Powerful forces are unrelenting in their search for it. But fate has placed it in the hands of a young Hobbit named Frodo Baggins (Elijah Wood), who inherits the Ring and steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer - to destroy the One Ring in the fires of Mount Doom where it was forged."
+    },
+    {
+        "id": 5,
+        "name":"avengers:endgame",
+        "category_id":1,
+        "Age":"13+",
+        "image":"https://i.ibb.co/c3nK0KR/avengers-endgame-iron-man-robert-downey-jr-captain-america-chris-evans-hd-wallpaper-preview.jpg" ,
+        "year":2019,
+        "info":"In the film, the surviving members of the Avengers and their allies attempt to reverse the destruction caused by Thanos in Infinity War."
+    },
+    {
+        "id": 6,
+        "name":"hichki",
+        "category_id":1,
+        "Age":"13+",
+        "image":"https://i.ibb.co/7QP4RG6/hichki.jpg",
+        "year":2018,
+        "info":"Hichki is a story about a woman who turns her most daunting weakness into her biggest strength. Naina Mathur (Rani Mukerji) is an aspiring teacher who suffers from Tourette Syndrome."
+    },
+    {
+        "id": 7,
+        "name":"wonder women",
+        "category_id":1,
+        "Age":"13+",
+        "image":"https://i.ibb.co/P6pjgLR/wonderwomen.jpg",
+        "year":2017,
+        "info":"n Wonder Woman, the Amazon princess Diana sets out to stop World War I, believing the conflict was started by the longtime enemy of the Amazons, Ares, after American pilot and spy Steve Trevor crash-lands on their island Themyscira and informs her about it."
+    },
+    {
+        "id": 8,
+        "name":"godzilla",
+        "category_id":1,
+        "Age":"13+",
+        "image":"https://i.ibb.co/6XnFBM3/godzilla.jpg",
+        "year":2019,
+        "info":"Godzilla is an enormous, destructive, prehistoric sea monster awakened and empowered by nuclear radiation. With the nuclear bombings of Hiroshima and Nagasaki and the Lucky Dragon 5 incident still fresh in the Japanese consciousness, Godzilla was conceived as a metaphor for nuclear weapons."
+    },
+    {
+        "id": 9,
+        "name":"joker",
+        "category_id":1,
+        "Age":"13+",
+        "image":"https://i.ibb.co/9ytzXdB/joker.jpg",
+        "year":2019,
+        "info":"Set in 1981, it follows Arthur Fleck, a failed clown and aspiring stand-up comedian whose descent into insanity and nihilism inspires a violent countercultural revolution against the wealthy in a decaying Gotham City. Robert De Niro, Zazie Beetz, and Frances Conroy appear in supporting roles."
+    },
+    
+    {
+        "id": 10,
+        "name":"ek tha tiger",
+        "category_id":1,
+        "Age":"13+",
+        "image":"https://i.ibb.co/bsRfjn4/ek-tha-tiger.jpg",
+        "year":2012,
+        "info":"A RAW agent, Tiger, is sent to Dublin to observe an Indian scientist who is suspected of sharing nuclear secrets with the ISI. He meets and falls for his caretaker Zoya, a girl with a dark secret."
+    },
+    
+    
+    {
+        "id":11,
+        "name":"kabhi khushi kabhi gum",
+        "category_id":2,
+        "age":"7+",
+        "image":"https://i.ibb.co/PY0LgG0/k3g.jpg",
+        "year":2001,
+        "info":"Rahul was adopted since he was born. Rahul falls in love with a poor girl named Anjali but his dad forbids their love, for he wanted him to marry his friend's daughter. Rahul marries Anjali, so his dad kicks him out of the house and moves to London with Anjali, her younger sister Pooja, and his nanny."
+
+    },
+    {
+        "id":12,
+        "name":"pk ",
+        "category_id":2,
+        "age":"7+",
+        "image":"https://i.ibb.co/Ms9KYMK/pk.jpg",
+        "year":2014,
+        "info":"PK is an Alien who visits earth to understand about its 'intelligent' inhabitants, but the very first lesson is a painful one when the remote control of his spaceship is stolen. Hence he now faces myriads of problem in a planet where he is alone unaware and can't even speak its language."
+
+    },
+    {
+        "id":13,
+        "name":"Ram lila",
+        "category_id":2,
+        "age":"7+",
+        "image":"https://i.ibb.co/qM6F08X/ramlila.jpg",
+        "year":2020,
+        "info":"Ram Leela is a tragic love story of Ram (Ranveer Singh) and Leela (Deepika Padukone). The movie set up in Gujarat showcases an on-going rivalry between the two families and a love story that blooms while hiding from this rivalry."
+
+    },
+    {
+        "id":14,
+        "name":"hichki",
+        "category_id":2,
+        "age":"7+",
+        "image":"https://i.ibb.co/7QP4RG6/hichki.jpg",
+        "year":2018,
+        "info":"Hichki is a story about a woman who turns her most daunting weakness into her biggest strength. Naina Mathur (Rani Mukerji) is an aspiring teacher who suffers from Tourette Syndrome."
+
+    },
+    {
+        "id":15,
+        "name":"jab tak hai jaan",
+        "category_id":2,
+        "age":"7+",
+        "image":"https://i.ibb.co/MRRTZ53/jab-tak-hai-jaan.jpg",
+        "year":2012,
+        "info":"In London, Samar falls for Meera but returns to India to work as a bomb disposal specialist after she leaves him. Akira, a journalist, falls in love with him but decides to unite the lovers."
+
+    },
+    {
+        "id":16,
+        "name":"lagaan",
+        "category_id":2,
+        "age":"7+",
+        "image":"https://i.ibb.co/Bgrdz6R/lagaan.jpg",
+        "year":2001,
+        "info":"Set in 1893, during the late Victorian period of India's colonial British Raj, the film follows the inhabitants of a village in Central India, who, burdened by high taxes and several years of drought, are challenged by an arrogant British Indian Army officer to a game of cricket as a wager to avoid paying the taxes ..."
+
+    },
+    {
+        "id":17,
+        "name":"channei express",
+        "category_id":2,
+        "age":"7+",
+        "image":"https://i.ibb.co/k8xKQ30/channei-express.jpg" ,
+        "year":2013,
+        "info":"rahul embarks on a journey to a small town in Tamil Nadu to fulfill the last wish of his grandfather: to have his ashes immersed in the Holy water of Rameshwaram. En route, he meets a woman hailing from a unique family down South."
+
+    },
+    {
+        "id":18,
+        "name":"ek tha tiger",
+        "category_id":2,
+        "age":"7+",
+        "image":"https://i.ibb.co/bsRfjn4/ek-tha-tiger.jpg",
+        "year":2012,
+        "info":"A RAW agent, Tiger, is sent to Dublin to observe an Indian scientist who is suspected of sharing nuclear secrets with the ISI. He meets and falls for his caretaker Zoya, a girl with a dark secret."
+
+    },
+    {
+        "id":19,
+        "name":"3 idiots",
+        "category_id":2,
+        "age":"7+",
+        "image":"https://i.ibb.co/2gsZmyJ/3idots.jpg",
+        "year":2009,
+        "info":"Narrated through parallel dramas, one in the present and the other ten years in the past, the story follows the friendship of three students at an Indian engineering college and is a satire about the social pressures under an Indian education system"
+
+    },
+    {
+        "id":20,
+        "name":"drishyam2",
+        "category_id":2,
+        "age":"7+",
+        "image":"https://i.ibb.co/xDNzFYP/dhm2.jpg" ,
+        "year":2022,
+        "info":"Drishyam 2 ( transl. Visual 2) is an upcoming 2022 Indian Hindi-language crime thriller film directed by Abhishek Pathak. The film stars Ajay Devgn, Tabu, Shriya Saran and Akshaye Khanna in lead roles with Ishita Dutta, Mrunal Jadhav and Rajat Kapoor in supporting roles."
+
+    },
+    {
+        "id":21,
+        "name":"alien",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/26Xpn7x/alien-movie.jpg",
+        "year":2012,
+        "info":"The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission. In the distant future, the crew of the commercial spaceship Nostromo are on their way home when they pick up a distress call from a distant moon."
+
+    },
+    {
+        "id":22,
+        "name":"joker",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/9ytzXdB/joker.jpg",
+        "year":2019,
+        "info":"Set in 1981, it follows Arthur Fleck, a failed clown and aspiring stand-up comedian whose descent into insanity and nihilism inspires a violent countercultural revolution against the wealthy in a decaying Gotham City. Robert De Niro, Zazie Beetz, and Frances Conroy appear in supporting roles."
+
+    },
+    {
+        "id":23,
+        "name":"avengers:endgame",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/c3nK0KR/avengers-endgame-iron-man-robert-downey-jr-captain-america-chris-evans-hd-wallpaper-preview.jpg" ,
+        "year":2019,
+        "info":"In the film, the surviving members of the Avengers and their allies attempt to reverse the destruction caused by Thanos in Infinity War."
+
+    },
+    {
+        "id":24,
+        "name":"lords of the rings",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/yVRPP1S/lords-of-rings.jpg",
+        "year":2009,
+        "info":"The future of civilization rests in the fate of the One Ring, which has been lost for centuries. Powerful forces are unrelenting in their search for it. But fate has placed it in the hands of a young Hobbit named Frodo Baggins (Elijah Wood), who inherits the Ring and steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer - to destroy the One Ring in the fires of Mount Doom where it was forged."
+
+    },
+    {
+        "id":25,
+        "name":"the last jedi war",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/df7yGBL/star-wars.jpg",
+        "year":2017,
+        "info":"The Last Jedi follows Rey as she seeks the aid of Luke Skywalker, in hopes of turning the tide for the Resistance in the fight against Kylo Ren and the First Order, while General Leia Organa, Finn, and Poe Dameron attempt to escape a First Order attack on the dwindling Resistance fleet."
+
+    }, {
+        "id":26,
+        "name":"wonder women",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/P6pjgLR/wonderwomen.jpg",
+        "year":2017,
+        "info":"In Wonder Woman, the Amazon princess Diana sets out to stop World War I, believing the conflict was started by the longtime enemy of the Amazons, Ares, after American pilot and spy Steve Trevor crash-lands on their island Themyscira and informs her about it."
+
+    },
+    {
+        "id":27,
+        "name":"godzilla",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/6XnFBM3/godzilla.jpg",
+        "year":2019,
+        "info":"Sending bright smiles and positive vibes your way, All is well is a talk show hosted by Suma Kanakala, where she interacts with various celebrities and maintains an entertaining tenor while highlighting all the good news from around the world."
+
+    },
+    {
+        "id": 28,
+        "name":"avatar",
+        "category_id":1,
+        "Age":"13+",
+        "image":"",
+        "year":2009,
+        "info":"A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home. When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora."
+    },
+    {
+        "id":29,
+        "name":"all is well",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/jH2txGL/all-is-well.jpg",
+        "year":2020,
+        "info":"Sending bright smiles and positive vibes your way, All is well is a talk show hosted by Suma Kanakala, where she interacts with various celebrities and maintains an entertaining tenor while highlighting all the good news from around the world."
+
+    },
+    {
+        "id":30,
+        "name":"all is well",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/jH2txGL/all-is-well.jpg",
+        "year":2020,
+        "info":"Sending bright smiles and positive vibes your way, All is well is a talk show hosted by Suma Kanakala, where she interacts with various celebrities and maintains an entertaining tenor while highlighting all the good news from around the world."
+
+    },
+    
+    {
+        "id":31,
+        "name":"pirate plunder",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/C7G0LTV/gamepirate.jpg",
+        "year":2020,
+        "info":"An abandoned pirate ship loaded with treasure is about to sink in the deep blue ocean. Amongst other valuable loots on the ship is the Golden Anchor which is every pirate’s eternal desire. You need to get on board, search for the treasure and come out before the ship sinks or you end up being bait to the hungry sharks! The treasure is big enough to risk your life! Will you?"
+    },
+    {
+        "id":32,
+        "name":"Lost treasure of sundarbans",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/smW3LFM/gamelost-treasure.jpg",
+        "year":2020,
+        "info":"You are a group of explorers who love traveling to Jungles across the world. This time you choose Sundarbans famous for deadly wild beasts and tough terrain. Locals told you about the ancient lost treasure in the Jungle. This excites you even further, but you realize this can be a dangerous adventure. Whoever has gone in search of the treasure, has never come back."
+    },
+    {
+        "id":33,
+        "name":"Run for fitness",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/LvBQgD9/run.jpg",
+        "year":2020,
+        "info":"Run / Walk / Jog / Cycle at your own Place, Gym or Treadmill. Run is to promote Fitness in India.A virtual Marathon / Cyclothon gives you freedom to do this challenge anywhere, with anyone, and at any time."
+    },
+    {
+        "id":34,
+        "name":"santa's escape",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/TLhnXRV/santagame.jpg",
+        "year":2020,
+        "info":"An online adventure game by India's No. 1 Escape room company - The Hidden Hour. This is a highly immersive and collaborative online escape room, where the game play is non-linear and non-sequential. Enter the virtual room and help the Santa in his mysterious escape."
+    },
+    {
+        "id":35,
+        "name":"ludo",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/Jxnwhfw/ludo.jpg",
+        "year":2020,
+        "info":"Malsar is back with `Ludo Championship`. Join us for an online version of everyone`s favorite game, and we are sure that not only you, but your family will also have a great time. You have play this alone or to have more fun you can play along with your families/friends."
+    },
+    {
+        "id":36,
+        "name":"honey moon",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/CQv0Bmr/honeymoon.jpg",
+        "year":2020,
+        "info":"After consenting to an arranged marriage, Praveen and Tejaswini embark on a journey filled with unexpected events and galore of emotions, and their unplanned honeymoon turns out to be the best decision ever."
+    },
+    {
+        "id":37,
+        "name":"honey moon",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/CQv0Bmr/honeymoon.jpg",
+        "year":2020,
+        "info":"After consenting to an arranged marriage, Praveen and Tejaswini embark on a journey filled with unexpected events and galore of emotions, and their unplanned honeymoon turns out to be the best decision ever."
+    },
+    {
+        "id":38,
+        "name":"honey moon",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/CQv0Bmr/honeymoon.jpg",
+        "year":2020,
+        "info":"After consenting to an arranged marriage, Praveen and Tejaswini embark on a journey filled with unexpected events and galore of emotions, and their unplanned honeymoon turns out to be the best decision ever."
+    },
+    {
+        "id":39,
+        "name":"honey moon",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/CQv0Bmr/honeymoon.jpg",
+        "year":2020,
+        "info":"After consenting to an arranged marriage, Praveen and Tejaswini embark on a journey filled with unexpected events and galore of emotions, and their unplanned honeymoon turns out to be the best decision ever."
+    },
+    {
+        "id":40,
+        "name":"honey moon",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/CQv0Bmr/honeymoon.jpg",
+        "year":2020,
+        "info":"After consenting to an arranged marriage, Praveen and Tejaswini embark on a journey filled with unexpected events and galore of emotions, and their unplanned honeymoon turns out to be the best decision ever."
+    }]
+   
